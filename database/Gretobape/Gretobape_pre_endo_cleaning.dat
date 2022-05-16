@@ -7744,8 +7744,8 @@ HCOOCH3    He+                    He         CH3O       HCO+                    
 HCOOCH3    He+                    He         CH3O       HCO+                               4.600e-10  2.410e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7245 1  1 CC Ascenzi+2019 -->it should be CH2OH but it does not exist
 HCOOCH3    He+                    He         HCO        HCO+       H2                      4.600e-10  2.410e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7246 1  1 CC Ascenzi+2019 
 CH3OCH3    HCO+                   CO         CH3OCH4+                                      2.100e-09 -5.000e-01  0.000e+00 1.25e+00 0.00e+00 logn  4     10    300  3  7247 1  1 CC Ascenzi+2019
-CH3OCH3    H3+                    H2         CH3+       CH3O       H                       1.000e-09 -5.000e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7248 1  1 CC Ascenzi+2019
-CH3OCH3    H3+                    H2         CH3+       H2CO       H2                      1.000e-10 -5.000e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7249 1  1 CC Ascenzi+2019
+CH3OCH3    H3+                    H2         CH3+       CH3OH                              1.000e-09 -5.000e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7248 1  1 CC Ascenzi+2019
+CH3OCH3    H3+                    H2O        CH4        CH3+                               1.000e-09 -5.000e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7249 1  1 CC Ascenzi+2019
 HCOOCH3    HCO+                   CO         H5C2O2+                                       2.900e-09 -5.000e-01  0.000e+00 1.25e+00 0.00e+00 logn  4     10    300  3  7251 1  1 CC Ascenzi+2019
 HCOOCH3    H3+                    H2         CH3OH2+    CO                                 3.400e-09 -5.000e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7252 1  1 CC Ascenzi+2019
 HCOOCH3    H3+                    H2         H5C2O2+                                       7.000e-10 -5.000e-01  0.000e+00 2.00e+00 0.00e+00 logn  4     10    300  3  7253 1  1 CC Ascenzi+2019

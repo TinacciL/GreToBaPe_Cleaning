@@ -3,6 +3,10 @@ import networkx as nx
 import pandas as pd
 import os
 
+def FromHeToKJmol(Eh):
+    tmp = Eh *  6.02214076 * 100 * 4.359748199
+    return(tmp)
+
 def ExtractMolFromNetwork(df_network):
 	network = FromNetworkDataFrameToNetworkClassList(df_network)
 	mol = []
