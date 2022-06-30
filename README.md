@@ -12,15 +12,18 @@ This program used a python3 interface, to run this code you must install on your
 ## Script Structure
 All the code is inside the ```Cleaning_script.ipynb``` ipython notebook
 
+## The paper Supporting Info of paper (temporary)
+All the paper supporting info are inside the ```SI```  folder.
+
 
 ## Associated publications
 Please reffer to the following publication to cite our work or retrieve the info:
 
-[The GreToBaPe gas-phase reaction network: the importance of being earnest exothermic, L.Tinacci et al 2022 ApJS ](https://doi.org/10.3847/1538-4365/ac194c) 
+[The GreToBaPe gas-phase reaction network: the importance of being earnest exothermic, L.Tinacci et al 2022 ApJS ](https://doi.org/10.3847/1538-4365/ac194c)
 
 (https://doi.org/10.3847/1538-4365/ac194c)
 
-[Structures and Properties of Known and Postulated Interstellar Cations, L.Tinacci et al 2021 ApJS 256 35](https://doi.org/10.3847/1538-4365/ac194c) 
+[Structures and Properties of Known and Postulated Interstellar Cations, L.Tinacci et al 2021 ApJS 256 35](https://doi.org/10.3847/1538-4365/ac194c)
 
 (https://doi.org/10.3847/1538-4365/ac194c)
 
