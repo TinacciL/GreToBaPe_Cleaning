@@ -10,7 +10,7 @@ This program used a python3 interface, to run this code you must install on your
 * ```pandas```
 
 ## Script Structure
-All the code is inside the ```Cleaning_script.ipynb``` ipython notebook
+All the codes are inside the ```Cleaning_script.ipynb``` ipython notebook and ```lib.py``` python file.
 
 ## The paper Supporting Info of paper (temporary)
 All the paper supporting info are inside the ```SI```  folder.
