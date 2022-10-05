@@ -10,11 +10,13 @@ This program used a python3 interface, to run this code you must install on your
 * ```pandas```
 
 ## Script Structure
-All the codes are inside the ```Cleaning_script.ipynb``` ipython notebook and ```lib.py``` python file.
+All the codes are inside the ```Cleaning_script.ipynb``` ipython notebook, the ```lib.py``` python file is where many functions are stored.
+
+## Database
+Networks and molecules information are inside the ```Database``` directory. A dedicated ```ReadMe``` file is inside the directory.
 
 ## The paper Supporting Info of paper (temporary)
 All the paper supporting info are inside the ```SI```  folder.
-
 
 ## Associated publications
 Please reffer to the following publication to cite our work or retrieve the info:

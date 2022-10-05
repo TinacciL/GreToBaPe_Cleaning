@@ -1,5 +1,5 @@
 ================================================================================
-Title: The GreToBaPe gas-phase reaction network: the importance of being earnest exothermic
+Title: The GreToBaPe gas-phase reaction network: the importance of being exothermic
 Authors: L.Tinacci, S.Ferrada-Chamorro, C.Ceccarelli, S.Pantaleone, D.Ascenzi, A.Maranzana, N.Balucani, P.Ugliengo
 ================================================================================
 Description of contents: This tar.gz archive file contains:
@@ -19,10 +19,10 @@ Description of contents: This tar.gz archive file contains:
     Charge (electric charge), 
     Detected (detected in space?), 
     pwd_xyz (pwd to "species/" folder), 
-    SpinMultiplicity (electronic spin multiplicity), 
-    Energy_Eh (electronic energy in Eh, 
+    Spin (electronic spin multiplicity), 
+    Energy (electronic energy in Eh, 
     computed at CCSD(T)/aug-cc-pVTZ//M06-2X/cc-pVTZ), 
-    ZPE_Eh (Harmonic zero-point-energy in Eh, computed at M06-2X/cc-pVTZ)
+    ZPE (Harmonic zero-point-energy in Eh, computed at M06-2X/cc-pVTZ)
     
     - The following files are Reaction Networks, the file format used for these file
      is reported in details at the bottom of this ReadMe.
@@ -166,7 +166,7 @@ H3C7N+_2.xyz      C9H2+_2.xyz      H2C9_1A1.xyz     H2C8N+_1.xyz     C10H+_3.xyz
 C10H-_1.xyz       C9HN+_2.xyz      HC9N_1Sigma.xyz  HC9O+_1.xyz      C11+_2.xyz       C11_1Sigma.xyz
 C10N+_1.xyz       C10N_2Ap.xyz     c-C6H6_1A1.xyz   C7H5+_1.xyz      C8H4+_2.xyz      C9H3+_1.xyz
 CH3C7N_1Ap.xyz    C10H2+_2.xyz     C10H2_1S.xyz     C9H2N+_1.xyz     HC10N+_2.xyz     HC10N_3Sigma.xyz
-C10N2_1Sigma.xyz  C5H8_1Ap.xyz     C6H7+_1.xyz      C7H6_1A.xyz      C8H5+_1.xyz      C9H4+_2.xyz
+C10N2_1Sigma.xyz  C5H8_1Ap.xyz     c-C6H7+_1.xyz    C7H6_1A.xyz      C8H5+_1.xyz      C9H4+_2.xyz
 C8H4N+_1.xyz      C10H3+_1.xyz     H2C10N+_1.xyz    C9H5+_1.xyz      C7H8_1A.xyz      C6H10_1A.xyz
 l-C3H3+_1.xyz     l-SiC3+_2.xyz   
 
