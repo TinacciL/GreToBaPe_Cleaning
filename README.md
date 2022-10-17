@@ -10,7 +10,8 @@ This program used a python3 interface, to run this code you must install on your
 * ```pandas```
 
 ## Script Structure
-All the codes are inside the ```Cleaning_script.ipynb``` ipython notebook, the ```lib.py``` python file is where many functions are stored.
+All the codes for the cleaning are inside the ```Cleaning_script.ipynb``` ipython notebook, the ```lib.py``` python file is where many functions are stored.
+An example on how encode a KIDA Reaction Network and visualize is in the ```reaction_network_to_graph.ipynb``` file.
 
 ## Database
 Networks and molecules information are inside the ```Database``` directory. A dedicated ```ReadMe``` file is inside the directory.
