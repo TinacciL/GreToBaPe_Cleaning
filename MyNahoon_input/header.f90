@@ -10,6 +10,6 @@
 
        integer NS, NRTOT, NX, NTIME, NELEM 
        double precision XCO_0,XH2_0
-       !new_gretobape.dat (7418) with grain reactions (14) and 487 species + 4 grain species (GRAIN-,GRAIN0,XH,e-)
-       parameter (NS=493, NRTOT=7435, NTIME=124,NX=1,NELEM=14)
+       !new_gretobape.dat (7422) with grain reactions (14) and 489 species + 4 grain species (GRAIN-,GRAIN0,XH,e-)
+       parameter (NS=493, NRTOT=7436, NTIME=124,NX=1,NELEM=14)
        parameter (XCO_0=1.D-4, XH2_0=5.D-1)
