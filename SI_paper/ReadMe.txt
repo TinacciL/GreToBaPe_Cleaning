@@ -26,14 +26,14 @@ Description of contents: This tar.gz archive file contains:
     
     - The following files are Reaction Networks, the file format used for these file
      is reported in details at the bottom of this ReadMe.
-        -- Gretobape_ReactionNetwork.dat is the clean and new Reaction Networks 
-        -- Gretobape_ReactionNetwork_reduced.dat is the reduced version of the clean and new Reaction Networks 
-        -- Gretobape_ReactionNetwork_pre_endo_cleaning.dat is the original Reaction Networks before cleaning process
-        -- Gretobape_ReactionNetwork_endo.dat report all the reaction found to be endothermic 
-        -- Gretobape_ReactionNetwork_endo_0_10_kjmol.dat report all the reaction kept in the clean network that have a reaction enthalpy between 0 and 10 kJ/mol
-        -- Gretobape_ReactionNetwork_domino_endo.dat report all the reaction found to be endothermic and the reaction deleted from domino effect
-        -- Gretobape_ReactionNetwork_domino_endo_Si.dat report all the reaction found to be endothermic involving Si-bearing species
-        -- Gretobape_ReactionNetwork_domino_endo_S.dat report all the reaction found to be endothermic involving S-bearing species
+        -- GRETOBAPE-pre.dat            is the original Reaction Networks before cleaning process
+        -- GRETOBAPE.dat                is the clean and new Reaction Networks 
+        -- GRETOBAPE-red.dat            is the reduced version of the clean and new Reaction Networks 
+        -- GRETOBAPE-endo.dat           reports all the reactions found to be endothermic 
+        -- GRETOBAPE-endo-0-10kJmol.dat reports all the reaction kept in the clean network that have a reaction enthalpy between 0 and 10 kJ/mol
+        -- GRETOBAPE-domino-endo.dat    reports all the reaction found to be endothermic and the reaction deleted from domino effect
+        -- GRETOBAPE-domino-endo-Si.dat reports all the reaction found to be endothermic involving Si-bearing species
+        -- GRETOBAPE-domino-endo-S.dat  reports all the reaction found to be endothermic involving S-bearing species
     
     The scripts to perform cleaning processes and the data are available on the following website:
     
