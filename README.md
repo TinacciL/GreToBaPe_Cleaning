@@ -22,7 +22,7 @@ All the paper supporting info are inside the ```SI```  folder.
 ## Associated publications
 Please reffer to the following publication to cite our work or retrieve the info:
 
-[The GRETOBAPE gas-phase reaction network: the importance of being exothermic, L.Tinacci et al 2023 Arxive ](https://doi.org/10.48550/arXiv.2302.14799)
+[The GRETOBAPE gas-phase reaction network: the importance of being exothermic, L.Tinacci et al 2023 Arxiv](https://doi.org/10.48550/arXiv.2302.14799)
 
 (https://doi.org/10.48550/arXiv.2302.14799)
 
