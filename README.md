@@ -1,4 +1,4 @@
-# Cleaning Astrochemical Reaction netowrk via Thermodynamics  
+# Cleaning Astrochemical Reaction network via Thermodynamics principles
 This is a Python 3.8 script that permits to read and work with an astrochemical reaction network in [KIDA format](https://kida.astrochem-tools.org/) .
 
 ## Installation
