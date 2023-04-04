@@ -8,6 +8,14 @@ Description of contents: This tar.gz archive file contains:
     manuscript listed above. A complete listing of all these files is given at 
     the bottom of this ReadMe
     
+    - In the GRETOBAPE-endo-info.csv file there are all the reaction in the GRETOBAPE-endo.dat
+    where the endothermicity of the reactions is reported.
+    The csv columns are:
+    R1, R2, R3 (Reactants as in KIDA format) 
+    P1, P2, P3, P4 and P5 (Products as in KIDA format) 
+    Number (the number of the reaction, same in all the other networks)
+    Reaction_enthalpy (reaction enthalpy for the reaction in kJ/mol)
+    
     - In the Database_Molecules.csv file there are all the extracted and organized 
     information of all the species in the above mentioned folder (i.e. species).
     The csv columns are: 
